@@ -1,0 +1,2 @@
+# WCoinBot
+WCoinBot App AutoClicker
