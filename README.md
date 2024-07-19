@@ -4,6 +4,14 @@
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
 
+# To remind
+🔴 $\textsf{\color[rgb]{1.0, 0.0, 0.0}Important Note :}$ $\textsf{\color[rgb]{0.0, 0.0, 0.0}A few very important points that you should pay attention to}$ 🔴
+| No.                      | Description                                                                                    |
+|------------------------------|------------------------------------------------------------------------------------------------|
+| 1.        | To use the robot, Python 3.10 must be installed.                      |
+| 2.        | Do not collect coins by clicking or tapping while using the robot , as this will disrupt the robot server and there is a possibility of losing the coins you have collected.                      |
+
+
 ## Features  
 | Feature                                                     | Supported  |
 |---------------------------------------------------------------|:----------------:|
