@@ -10,6 +10,7 @@
 |------------------------------|------------------------------------------------------------------------------------------------|
 | 1.        | To use the robot, Python 3.10 must be installed.                      |
 | 2.        | Do not collect coins by clicking or tapping while using the robot , as this will disrupt the robot server and there is a possibility of losing the coins you have collected.                      |
+| 3.        | Before activating the robot, review and set the settings of the config file located in the bot\\config folder according to your needs.                      |
 
 
 ## Features  
